@@ -1,7 +1,6 @@
 #!/usr/bin/python2
 
 from __future__ import print_function
-from random import randint
 import sys
 
 def getnums(f,r=[0,1,2,3],c=[0,1,2,3]):
